@@ -1,3 +1,5 @@
+import './index.css';
+
 const lists = document.querySelectorAll('.list')
 
 function addTaSK() {
